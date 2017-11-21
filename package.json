@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lucymk/CI-Project#readme",
   "devDependencies": {
-    "jshint": "^2.9.5"
+    "jshint": "^2.9.5",
+    "tape": "^4.8.0"
   }
 }
