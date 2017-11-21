@@ -1,0 +1,22 @@
+{
+  "name": "ci-project",
+  "version": "1.0.0",
+  "description": "A project during CI research",
+  "main": "function.js",
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint function.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucymk/CI-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucymk/CI-Project/issues"
+  },
+  "homepage": "https://github.com/lucymk/CI-Project#readme",
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
